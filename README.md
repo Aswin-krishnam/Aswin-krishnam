@@ -36,4 +36,4 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 ---
 
 ### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin%20Krishna-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin%20Krishna-blue?style=flat&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/aswin-krishna-m-85b9041a3/))
