@@ -30,8 +30,8 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NightStack&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NightStack&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswin-krishnam&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-krishnam&layout=compact&theme=default)
 
 ---
 
