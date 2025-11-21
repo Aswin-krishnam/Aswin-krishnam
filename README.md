@@ -22,15 +22,8 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 
 ---
 
-### 🎯 Technical Interests
-- Intelligent systems & automation  
-- Backend architecture and API design  
-- Vector databases & information retrieval  
-
----
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswin-krishnam&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-krishnam&layout=compact&theme=default)
 
 ---
