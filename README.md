@@ -1,6 +1,6 @@
 ### Hi, I'm Aswin Krishna M (NightStack) 👋
 
-I'm a Full-stack Developer specializing in the MERN stack, with a strong focus on building scalable, efficient, and user-centric applications. I enjoy working at the intersection of web development and AI—particularly in LLM integration, vector search, and intelligent system design.
+I'm a Full-stack Developer specializing in the MERN stack, with a strong focus on building scalable, efficient, and user-centric applications. I enjoy working at the intersection of web development and AI—particularly in LLM integration, and intelligent system design.
 
 ---
 
@@ -17,7 +17,7 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 ---
 
 ### 📌 Current Projects
-- 🚀 **AI Tutor** — MERN + FAISS + LLM-powered intelligent learning assistant  
+- 🚀 **AI Tutor** — MERN + LLM-powered intelligent learning assistant  
 - 📊 **Health Tracker** — tracks daily water intake, sleep, exercise, mood, calories & more  
 
 ---
@@ -26,7 +26,4 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-krishnam&layout=compact&theme=default)
 
----
 
-### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin%20Krishna-blue?style=flat&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/aswin-krishna-m-85b9041a3/))
