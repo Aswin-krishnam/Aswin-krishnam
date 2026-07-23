@@ -24,7 +24,4 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 ---
 
 
-### 📈 GitHub Stats
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswin-krishnam&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-krishnam&layout=compact&theme=dark&hide_border=true)
