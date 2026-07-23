@@ -1,6 +1,6 @@
 ### Hi, I'm Aswin Krishna M (NightStack) 👋
 
-I'm a Full-stack Developer specializing in the MERN stack, with a strong focus on building scalable, efficient, and user-centric applications. I enjoy working at the intersection of web development[...]
+I'm a Full-stack Developer specializing in the MERN stack, with a strong focus on building scalable, efficient, and user-centric applications. I enjoy working at the intersection of web development.
 
 ---
 
