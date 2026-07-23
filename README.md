@@ -58,7 +58,7 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aswin-krishna-m-85b9041a3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](aswinkrishnam01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:aswinkrishnam01@gmail.com)
 
 ---
 
