@@ -53,30 +53,18 @@ I'm a Full-stack Developer specializing in the MERN stack, with a strong focus o
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-krishnam&theme=tokyonight&layout=compact)
 
----
-
-### 🌟 What I'm Currently Working On
-- 🔄 Enhancing AI Tutor with advanced NLP capabilities
-- 🏥 Expanding Health Tracker with data visualization & analytics
-- 📚 Learning cloud deployment (AWS/Azure)
-- 🤝 Open to collaboration on exciting projects
 
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/aswin-krishnam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=fff)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aswin-krishna-m-85b9041a3/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:aswinkrishnam01@gmail.com)
 
 ---
 
 ### 💡 Fun Facts
 - 🌙 Night owl developer (hence "NightStack"!)
 - 🎮 Love gaming and exploring new tech in my free time
-- 📖 Passionate about sharing knowledge through documentation & mentoring
 - ☕ Coffee-driven code
 
----
 
-⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
